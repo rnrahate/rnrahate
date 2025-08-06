@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aryan Rahate (rnrahate)
 
 🎓 **IT Engineering Student** at GHRCE, Nagpur  
-💻 **Python Developer** | ML & DL Enthusiast | Frontend Web Developer (React.js)
+💻 **Python Developer** | ML & DL Enthusiast | Frontend Web Developer (React.js) | Data Analyst
 
 ---
 
