@@ -128,7 +128,7 @@ A real-time translation system that recognizes sign language gestures via webcam
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnrahate&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rnrahate&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rnrahate&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
