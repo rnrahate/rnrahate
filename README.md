@@ -129,36 +129,6 @@ aryan = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<!-- Stats + Languages: split into two separate lines for reliability -->
-<div align="center">
-
-<img height="195em"
-     src="https://github-readme-stats.vercel.app/api?username=rnrahate&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=2ea043&text_color=8b949e&ring_color=2ea043&cache_seconds=1800"
-     alt="Aryan's GitHub Stats" />
-
-</div>
-
-<div align="center">
-
-<img height="195em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrahate&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&cache_seconds=1800"
-     alt="Top Languages" />
-
-</div>
-
-<!-- Streak stats -->
-<div align="center">
-
-<img width="70%"
-     src="https://streak-stats.demolab.com?user=rnrahate&hide_border=true&background=0d1117&ring=2ea043&fire=3fb950&currStreakLabel=3fb950&sideLabels=8b949e&dates=484f58&stroke=1a4731&currStreakNum=ffffff&sideNums=c9d1d9"
-     alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🟩 Contribution Graph
 
 <div align="center">
@@ -178,19 +148,6 @@ aryan = {
 ---
 
 ## 🏆 Achievements
-
-<!-- Trophies split into two rows of 3 for better rendering reliability -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rnrahate&theme=matrix&no-frame=true&no-bg=true&column=3&row=1&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A"
-     alt="GitHub Trophies Row 1" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rnrahate&theme=matrix&no-frame=true&no-bg=true&column=3&row=1&margin-w=15&margin-h=15&rank=B,C,UNKNOWN,SECRET"
-     alt="GitHub Trophies Row 2" />
-
-</div>
-
-<br/>
 
 | 🏅 Achievement | 📌 Details |
 |----------------|------------|
