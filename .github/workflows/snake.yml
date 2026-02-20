@@ -1,0 +1,64 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+### **Step 4 — Commit the file**
+
+1. Scroll down to the **"Commit changes"** section
+2. Leave the default commit message or write `Add snake workflow`
+3. Make sure **"Commit directly to the main branch"** is selected
+4. Click **Commit changes**
+
+---
+
+### **Step 5 — Run the workflow manually**
+
+1. Click the **Actions** tab at the top of your repo
+2. You'll see **"Generate Contribution Snake"** in the left sidebar — click it
+3. On the right side you'll see a **"Run workflow"** dropdown button — click it
+4. Click the green **"Run workflow"** button that appears
+5. Wait about **30–60 seconds** — you'll see a yellow dot (running) turn into a green ✅
+
+---
+
+### **Step 6 — Verify it worked**
+
+After the Action completes:
+
+1. Go back to your repo's **main page** (`github.com/rnrahate/rnrahate`)
+2. Click the **branch dropdown** (says `main`) → you should now see an **`output`** branch listed
+3. Switch to the `output` branch — you'll see these two files inside:
+```
+github-contribution-grid-snake.svg
+github-contribution-grid-snake-dark.svg
