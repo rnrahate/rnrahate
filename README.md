@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=ARYAN%20RAHATE&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG — readme-typing-svg.demolab.com is the correct working host -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=🤖+AI%2FML+Engineer+%7C+5x+Intern;🧠+Research+Author+%7C+Patent+Filer;🚀+Building+Agentic+AI+Systems;🔬+RAG+%7C+MLOps+%7C+Multi-Agent+Architectures;📍+Nagpur%2C+India+🇮🇳" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+5x+Intern;Research+Author+%7C+Patent+Filer;Building+Agentic+AI+Systems;RAG+%7C+MLOps+%7C+Multi-Agent+Architectures;Nagpur%2C+India" alt="Typing SVG" />
 
 </div>
 
@@ -217,11 +217,7 @@ print(aryan.life_motto())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rnrahate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&rank_icon=github" width="49%" alt="GitHub Stats"/>
-
 <img src="https://streak-stats.demolab.com?user=rnrahate&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&dates=888888" width="49%" alt="Streak Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10" width="42%" alt="Top Languages"/>
 
 </div>
 
