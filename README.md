@@ -3,21 +3,20 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=ARYAN%20RAHATE&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🤖+AI%2FML+Engineer+%7C+5x+Intern;🧠+Research+Author+%7C+Patent+Filer;🚀+Building+Agentic+AI+Systems;🔬+RAG+%7C+MLOps+%7C+Multi-Agent+Architectures;📍+Nagpur+%7C+GHRCE+IT+2027" alt="Typing SVG" /></a>
+<!-- Typing SVG — readme-typing-svg.demolab.com is the correct working host -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=🤖+AI%2FML+Engineer+%7C+5x+Intern;🧠+Research+Author+%7C+Patent+Filer;🚀+Building+Agentic+AI+Systems;🔬+RAG+%7C+MLOps+%7C+Multi-Agent+Architectures;📍+Nagpur%2C+India+🇮🇳" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<!-- Pixel art GIF banner -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="coding banner"/>
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &nbsp; Hi, I'm Aryan Rahate &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &nbsp; Hi, I'm Aryan Rahate
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
@@ -29,7 +28,7 @@ class AryanRahate:
         self.college     = "GHRCE Nagpur — B.Tech IT (2027)"
         self.cgpa        = 7.70
         self.internships = 5
-        self.research    = ["Published Paper", "Patent Filed 🔒"]
+        self.research    = ["Published Paper 📄", "Patent Filed 🔒"]
         self.location    = "Nagpur, Maharashtra 🇮🇳"
 
     def current_focus(self):
@@ -66,7 +65,7 @@ print(aryan.life_motto())
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-rahate)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnrahate)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rnrahate007)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/rnrahate007)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/rnrahate007)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1258831214505234513)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahatearyan.ar23062004@gmail.com)
 
@@ -86,16 +85,15 @@ print(aryan.life_motto())
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 **🧠 Generative AI & LLMOps**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-7928CA?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00D4FF?style=for-the-badge&logo=openai&logoColor=black)
 
@@ -113,7 +111,7 @@ print(aryan.life_motto())
 
 ---
 
-## 🔥 &nbsp; Priority & Current Stack
+## 🔥 &nbsp; Current Stack & Focus
 
 <div align="center">
 <table>
@@ -125,22 +123,21 @@ print(aryan.life_motto())
 ║    ENGINEERING PRODUCTION-GRADE AI SYSTEMS               ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  Currently architecting powerful Agentic AI systems,     ║
-║  mastering RAG pipelines, LangGraph multi-agent flows,   ║
-║  and MLOps to build AI that doesn't just work —          ║
-║  but SCALES. 💪                                          ║
+║  Currently architecting Agentic AI systems, mastering    ║
+║  RAG pipelines, LangGraph multi-agent flows, and MLOps   ║
+║  to build AI that doesn't just work — but SCALES. 💪     ║
 ║                                                          ║
-║  🎯 Target: Sarvam AI | Yellow.ai | Haptik | Krutrim     ║
-║  📚 2026 Cert: IBM RAG & Agentic AI Professional         ║
-║  🔭 FYP: Cricket Batting Tutor (Keras + MediaPipe)       ║
-║  🌟 Vision: AI/ML → AI Governance & Tech Policy          ║
+║  📚 2026 Cert : IBM RAG & Agentic AI Professional        ║
+║  🔭 FYP       : Cricket Batting Tutor (Keras+MediaPipe)  ║
+║  🌟 Vision    : AI/ML → AI Governance & Tech Policy      ║
+║  🤝 Open Src  : 5+ PRs merged on Extract-It OCR         ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 </td>
 <td width="35%">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="ai gif"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="ai gif"/>
 </td>
 </tr>
 </table>
@@ -154,11 +151,11 @@ print(aryan.life_motto())
 
 | 🔥 Project | 📝 Description | 🛠️ Stack |
 |------------|----------------|----------|
-| [**ResolveAI**](https://github.com/rnrahate/ResolveAI-From-complaints-to-resolution-powered-by-AI) | Production AI-powered grievance management system with RBAC | `FastAPI` `MongoDB` `MLflow` `Docker` `JWT` |
-| [**ExpenseAI**](https://github.com/rnrahate/ExpenseAI-Multi-Agent-expense-tracking-system) | Multi-agent expense tracking system powered by AI | `LangGraph` `FastAPI` `Agentic AI` `Python` |
-| [**EcoGuard AI**](https://github.com/rnrahate/EcoGuard-AI-Campus-Sustainability-Multi-Agent-System-) | Campus sustainability multi-agent AI system | `LangChain` `Multi-Agent` `Python` `AI` |
-| [**Binary Sign Language**](https://github.com/rnrahate/Binary-to-Alphabets-translate-using-finger-gestures) | Finger gesture recognition — Research Paper + 🔒 Patent Filed | `MediaPipe` `TensorFlow` `OpenCV` `CNN` |
-| [**Extract-It OCR**](https://github.com/rnrahate/Extract-It-OCR-based-chrome-extension) | Open-source OCR Chrome Extension · 5+ PRs contributed | `JavaScript` `OCR` `Chrome API` `Open Source` |
+| [**ResolveAI**](https://github.com/rnrahate/ResolveAI-From-complaints-to-resolution-powered-by-AI) | Production AI-powered grievance management system with JWT & RBAC | `FastAPI` `MongoDB` `MLflow` `Docker` |
+| [**ExpenseAI**](https://github.com/rnrahate/ExpenseAI-Multi-Agent-expense-tracking-system) | Multi-agent AI expense tracking system | `LangGraph` `FastAPI` `Agentic AI` |
+| [**EcoGuard AI**](https://github.com/rnrahate/EcoGuard-AI-Campus-Sustainability-Multi-Agent-System-) | Campus sustainability multi-agent AI system | `LangChain` `Multi-Agent` `Python` |
+| [**Binary Sign Language**](https://github.com/rnrahate/Binary-to-Alphabets-translate-using-finger-gestures) | Finger gesture recognition · Research Paper + 🔒 Patent Filed | `MediaPipe` `TensorFlow` `OpenCV` |
+| [**Extract-It OCR**](https://github.com/rnrahate/Extract-It-OCR-based-chrome-extension) | Open-source OCR Chrome Extension · 5+ PRs contributed | `JavaScript` `OCR` `Chrome API` |
 
 </div>
 
@@ -169,12 +166,12 @@ print(aryan.life_motto())
 <div align="center">
 
 ```
-🥇  Published Research Paper — Binary Sign Language Recognition
+📄  Published Research Paper — Binary Sign Language Recognition
 🔒  Patent Filed — Finger Gesture-Based Binary Sign Language System
-🎓  5 Internships — AI, Data Analyst, SQL Developer roles
+🎓  5 Internships across AI, Data Analytics & Development domains
 🏅  AWS Certified | Qualcomm AI Certified | IBM SkillsBuild GenAI
-🌱  1M1B × IBM SkillsBuild — AI for Sustainability Intern
-🏁  SAE Aerothon | Engineering India Abhyudaya | SIH 2024 (Internal)
+🌱  1M1B × IBM SkillsBuild — AI for Sustainability (Dec 2025 – Jan 2026)
+🏁  SAE Aerothon | Engineering India Abhyudaya | SIH 2024 (Internal Round)
 🤝  Open Source Contributor — Extract-It OCR (5+ PRs merged)
 🤖  Capgemini AgentifAI Buildathon — Team .Expendables
 ```
@@ -189,11 +186,11 @@ print(aryan.life_motto())
 
 | 🏢 Organization | 🎯 Role | 📅 Period |
 |----------------|---------|-----------|
-| **1M1B × IBM SkillsBuild** | AI for Sustainability Intern | 2024 |
-| **Excelerate** | Data Analyst Associate | 2024 |
-| **Main Flow Services** | SQL Developer Intern | 2024 |
-| **Edunet Foundation** | AI Intern | 2023-24 |
-| **Edunet Foundation** | Data Analyst Intern | 2023 |
+| **1M1B × IBM SkillsBuild** | AI for Sustainability Intern | Dec 2025 – Jan 2026 |
+| **Excelerate** | Data Analyst Associate | 2025–26 |
+| **Main Flow Services** | SQL Developer Intern | 2025–26 |
+| **Edunet Foundation** | AI Intern | 2025–26 |
+| **Edunet Foundation** | Data Analyst Intern | 2025 |
 
 </div>
 
@@ -203,9 +200,9 @@ print(aryan.life_motto())
 
 <div align="center">
 
-### 🔥 **[ MY GITHUB IS MY PORTFOLIO ]** 🔥
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=55&section=header&text=🚀%20Every%20commit%20tells%20a%20story.%20Every%20repo%20is%20a%20product.&fontSize=16&fontColor=ffffff" width="80%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🚀%20Every%20commit%20tells%20a%20story.%20Every%20repo%20is%20a%20product.&fontSize=16&fontColor=ffffff" width="80%"/>
+<br/><br/>
 
 > *"I don't just write code — I engineer intelligent systems that solve real problems."*
 
@@ -219,11 +216,21 @@ print(aryan.life_motto())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rnrahate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rnrahate&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" alt="Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rnrahate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&rank_icon=github&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10" width="40%" alt="Top Languages"/>
+<!-- streak-stats.demolab.com — correct host, herokuapp is deprecated -->
+<img src="https://streak-stats.demolab.com?user=rnrahate&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&dates=888888" width="49%" alt="Streak Stats"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10&cache_seconds=86400" width="42%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 📈 &nbsp; Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rnrahate&bg_color=0d1117&color=00d4ff&line=7928ca&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -234,16 +241,8 @@ print(aryan.life_motto())
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-snake.svg">
 </picture>
-</div>
-
----
-
-## 📈 &nbsp; Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rnrahate&bg_color=0d1117&color=00d4ff&line=7928ca&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -259,7 +258,6 @@ print(aryan.life_motto())
 
 ---
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer&text=Let's%20build%20something%20remarkable%20together!&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
