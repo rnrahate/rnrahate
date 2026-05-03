@@ -130,7 +130,7 @@ print(aryan.life_motto())
 ║  📚 2026 Cert : IBM RAG & Agentic AI Professional        ║
 ║  🔭 FYP       : Cricket Batting Tutor (Keras+MediaPipe)  ║
 ║  🌟 Vision    : AI/ML → AI Governance & Tech Policy      ║
-║  🤝 Open Src  : 5+ PRs merged on Extract-It OCR         ║
+║  🤝 Open Src  : 5+ PRs merged + a chrome extension       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -155,7 +155,7 @@ print(aryan.life_motto())
 | [**ExpenseAI**](https://github.com/rnrahate/ExpenseAI-Multi-Agent-expense-tracking-system) | Multi-agent AI expense tracking system | `LangGraph` `FastAPI` `Agentic AI` |
 | [**EcoGuard AI**](https://github.com/rnrahate/EcoGuard-AI-Campus-Sustainability-Multi-Agent-System-) | Campus sustainability multi-agent AI system | `LangChain` `Multi-Agent` `Python` |
 | [**Binary Sign Language**](https://github.com/rnrahate/Binary-to-Alphabets-translate-using-finger-gestures) | Finger gesture recognition · Research Paper + 🔒 Patent Filed | `MediaPipe` `TensorFlow` `OpenCV` |
-| [**Extract-It OCR**](https://github.com/rnrahate/Extract-It-OCR-based-chrome-extension) | Open-source OCR Chrome Extension · 5+ PRs contributed | `JavaScript` `OCR` `Chrome API` |
+| [**Extract-It OCR**](https://github.com/rnrahate/Extract-It-OCR-based-chrome-extension) | Open-source OCR Chrome Extension | `JavaScript` `OCR` `Chrome API` |
 
 </div>
 
@@ -169,10 +169,11 @@ print(aryan.life_motto())
 📄  Published Research Paper — Binary Sign Language Recognition
 🔒  Patent Filed — Finger Gesture-Based Binary Sign Language System
 🎓  5 Internships across AI, Data Analytics & Development domains
-🏅  AWS Certified | Qualcomm AI Certified | IBM SkillsBuild GenAI
+🏅  AWS AI/ML Scholar | Qualcomm AI Certified | IBM SkillsBuild GenAI
 🌱  1M1B × IBM SkillsBuild — AI for Sustainability (Dec 2025 – Jan 2026)
-🏁  SAE Aerothon | Engineering India Abhyudaya | SIH 2024 (Internal Round)
-🤝  Open Source Contributor — Extract-It OCR (5+ PRs merged)
+🏁  Engineering India Abhyudaya 2024 | SIH 2024 (Internal Round) SAE Aerothon 2025
+🏁  CIH 2026 | Hack4Brahma's HackDays Nagpur, 2026 | IBM Bob Day Hackathon, 2026 
+🤝  Open Source Contributor — Extract-It OCR + 5+ PRs merged
 🤖  Capgemini AgentifAI Buildathon — Team .Expendables
 ```
 
@@ -216,12 +217,11 @@ print(aryan.life_motto())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rnrahate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&rank_icon=github&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rnrahate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&rank_icon=github" width="49%" alt="GitHub Stats"/>
 
-<!-- streak-stats.demolab.com — correct host, herokuapp is deprecated -->
 <img src="https://streak-stats.demolab.com?user=rnrahate&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&dates=888888" width="49%" alt="Streak Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10&cache_seconds=86400" width="42%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10" width="42%" alt="Top Languages"/>
 
 </div>
 
@@ -239,9 +239,9 @@ print(aryan.life_motto())
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </div>
 
