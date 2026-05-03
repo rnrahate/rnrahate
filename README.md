@@ -1,199 +1,269 @@
 <div align="center">
 
-<!-- Animated banner — green theme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4731,100:2ea043&height=200&section=header&text=Aryan%20Rahate&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20AI%20Builder&descAlignY=58&descColor=8b949e&animation=fadeIn" />
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=ARYAN%20RAHATE&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG — green -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning+Engineer;TensorFlow+%7C+Scikit-learn+%7C+Streamlit;AI+for+Accessibility+%26+Environment;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Rahate-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-rahate)
-[![GitHub](https://img.shields.io/badge/GitHub-rnrahate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnrahate)
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-rnrahate-2496ed?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/rnrahate)
-[![Instagram](https://img.shields.io/badge/Instagram-rnrahate__007-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rnrahate_007/)
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🤖+AI%2FML+Engineer+%7C+5x+Intern;🧠+Research+Author+%7C+Patent+Filer;🚀+Building+Agentic+AI+Systems;🔬+RAG+%7C+MLOps+%7C+Multi-Agent+Architectures;📍+Nagpur+%7C+GHRCE+IT+2027" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- Pixel art GIF banner -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="coding banner"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &nbsp; Hi, I'm Aryan Rahate &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
 ```python
-aryan = {
-    "name"       : "Aryan Rahate",
-    "alias"      : "rnrahate",
-    "college"    : "GHRCE, Nagpur — IT Engineering",
-    "focus"      : ["Machine Learning", "Deep Learning", "AI for Social Good"],
-    "languages"  : ["Python", "C", "C++", "JavaScript"],
-    "stack"      : ["TensorFlow", "Scikit-learn", "Streamlit", "React.js", "Docker"],
-    "interests"  : ["AI Accessibility", "Environmental AI", "Predictive Analytics"],
-    "motto"      : "Build things that matter. HAPPY CODING!! 🚀"
-}
+class AryanRahate:
+    def __init__(self):
+        self.name        = "Aryan Rahate"
+        self.role        = "AI/ML Engineer"
+        self.college     = "GHRCE Nagpur — B.Tech IT (2027)"
+        self.cgpa        = 7.70
+        self.internships = 5
+        self.research    = ["Published Paper", "Patent Filed 🔒"]
+        self.location    = "Nagpur, Maharashtra 🇮🇳"
+
+    def current_focus(self):
+        return [
+            "🔭 Building ResolveAI — Production AI Grievance System",
+            "🧠 IBM RAG & Agentic AI Professional Certificate",
+            "🏏 Cricket Batting Tutor (Keras + MediaPipe)",
+            "⚡ Capgemini AgentifAI Buildathon — Team .Expendables",
+        ]
+
+    def stack(self):
+        return {
+            "AI/ML"   : ["TensorFlow", "Keras", "PyTorch", "Scikit-learn"],
+            "GenAI"   : ["LangChain", "LangGraph", "RAG", "HuggingFace"],
+            "Backend" : ["FastAPI", "Docker", "MLflow", "PostgreSQL"],
+            "Cloud"   : ["AWS", "MongoDB", "GitHub Actions"],
+        }
+
+    def life_motto(self):
+        return "Build it. Ship it. Scale it. 🚀"
+
+aryan = AryanRahate()
+print(aryan.life_motto())
 ```
 
-- 🎓 **IT Engineering Student** at GHRCE, Nagpur
-- 🤖 Passionate about applying **ML & DL** to real-world problems
-- ♿ Building AI for **accessibility** — sign language, inclusive tech
-- 🌿 Creating AI for **environmental impact** — EcoGuard AI
-- 🏆 National hackathon participant — **SIH** & **SAE Aerothon**
-- 🐳 Containerising ML apps with **Docker**
-- 📊 DSA Enthusiast | Data Analyst | Frontend Dev (React.js)
+<br clear="both"/>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔮 Customer Churn Prediction
-> AI-powered dashboard to predict customer churn probability in real time
-
-[![Repo](https://img.shields.io/badge/GitHub-Churn%20Prediction-181717?style=flat-square&logo=github)](https://github.com/rnrahate/customer-churn-prediction)
-[![Docker](https://img.shields.io/badge/Docker-Containerised-2496ed?style=flat-square&logo=docker)](https://hub.docker.com/u/rnrahate)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-- 🧠 **TensorFlow ANN** trained on 10 customer behaviour features
-- 📊 **Interactive Plotly dashboard** — Gauge, Bar, Donut charts
-- 🎯 **3-tier risk classification** — Low / Moderate / High with color-coded UI
-- ⚙️ Full **preprocessing pipeline** — LabelEncoder, OneHotEncoder, StandardScaler
-- 🐳 **Dockerised** and production-ready with health checks
-
----
-
-### 🌿 EcoGuard AI
-> Environmental intelligence platform powered by AI
-
-[![Repo](https://img.shields.io/badge/GitHub-EcoGuard%20AI-181717?style=flat-square&logo=github)](https://github.com/rnrahate/EcoGuard-AI)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Powered-2ea043?style=flat-square&logo=openai&logoColor=white)
-
-- 🌍 AI-driven solution for **environmental monitoring and analysis**
-- 🤖 Leverages machine learning for **eco-impact prediction**
-- 📡 Real-time data analysis for **environmental decision-making**
-- 🌱 Built to support sustainability and **climate awareness**
-
----
-
-### 🤟 Binary Sign Language Translator
-> Making communication accessible — translating finger gestures to alphabets using AI
-
-[![Repo](https://img.shields.io/badge/GitHub-Binary%20Sign%20Language-181717?style=flat-square&logo=github)](https://github.com/rnrahate/Binary-to-Alphabets-translate-using-finger-gestures)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-- 🤲 Interprets **binary finger gestures** and maps them to alphabets
-- 📷 Real-time **webcam-based gesture recognition** using OpenCV
-- ♿ Designed for **accessibility** — bridging communication gaps
-- 🧠 Deep learning model for robust **gesture classification**
-
----
-
-## 🛠️ Tech Stack
+## 🌐 &nbsp; Connect With Me
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI / ML / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Web & Frameworks
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-rahate)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rnrahate)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rnrahate007)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/rnrahate007)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1258831214505234513)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahatearyan.ar23062004@gmail.com)
 
 </div>
 
 ---
 
-## 🟩 Contribution Graph
+## 💻 &nbsp; Tech Stack — AI/ML Engineer & MLOps Practitioner
 
 <div align="center">
 
+**🤖 AI / Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**🧠 Generative AI & LLMOps**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-7928CA?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00D4FF?style=for-the-badge&logo=openai&logoColor=black)
+
+**⚙️ Backend & DevOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 &nbsp; Priority & Current Stack
+
+<div align="center">
+<table>
+<tr>
+<td width="65%">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║    ENGINEERING PRODUCTION-GRADE AI SYSTEMS               ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  Currently architecting powerful Agentic AI systems,     ║
+║  mastering RAG pipelines, LangGraph multi-agent flows,   ║
+║  and MLOps to build AI that doesn't just work —          ║
+║  but SCALES. 💪                                          ║
+║                                                          ║
+║  🎯 Target: Sarvam AI | Yellow.ai | Haptik | Krutrim     ║
+║  📚 2026 Cert: IBM RAG & Agentic AI Professional         ║
+║  🔭 FYP: Cricket Batting Tutor (Keras + MediaPipe)       ║
+║  🌟 Vision: AI/ML → AI Governance & Tech Policy          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</td>
+<td width="35%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="ai gif"/>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🚀 &nbsp; Featured Projects
+
+<div align="center">
+
+| 🔥 Project | 📝 Description | 🛠️ Stack |
+|------------|----------------|----------|
+| [**ResolveAI**](https://github.com/rnrahate/ResolveAI-From-complaints-to-resolution-powered-by-AI) | Production AI-powered grievance management system with RBAC | `FastAPI` `MongoDB` `MLflow` `Docker` `JWT` |
+| [**ExpenseAI**](https://github.com/rnrahate/ExpenseAI-Multi-Agent-expense-tracking-system) | Multi-agent expense tracking system powered by AI | `LangGraph` `FastAPI` `Agentic AI` `Python` |
+| [**EcoGuard AI**](https://github.com/rnrahate/EcoGuard-AI-Campus-Sustainability-Multi-Agent-System-) | Campus sustainability multi-agent AI system | `LangChain` `Multi-Agent` `Python` `AI` |
+| [**Binary Sign Language**](https://github.com/rnrahate/Binary-to-Alphabets-translate-using-finger-gestures) | Finger gesture recognition — Research Paper + 🔒 Patent Filed | `MediaPipe` `TensorFlow` `OpenCV` `CNN` |
+| [**Extract-It OCR**](https://github.com/rnrahate/Extract-It-OCR-based-chrome-extension) | Open-source OCR Chrome Extension · 5+ PRs contributed | `JavaScript` `OCR` `Chrome API` `Open Source` |
+
+</div>
+
+---
+
+## 🏆 &nbsp; Achievements & Certifications
+
+<div align="center">
+
+```
+🥇  Published Research Paper — Binary Sign Language Recognition
+🔒  Patent Filed — Finger Gesture-Based Binary Sign Language System
+🎓  5 Internships — AI, Data Analyst, SQL Developer roles
+🏅  AWS Certified | Qualcomm AI Certified | IBM SkillsBuild GenAI
+🌱  1M1B × IBM SkillsBuild — AI for Sustainability Intern
+🏁  SAE Aerothon | Engineering India Abhyudaya | SIH 2024 (Internal)
+🤝  Open Source Contributor — Extract-It OCR (5+ PRs merged)
+🤖  Capgemini AgentifAI Buildathon — Team .Expendables
+```
+
+</div>
+
+---
+
+## 💼 &nbsp; Experience
+
+<div align="center">
+
+| 🏢 Organization | 🎯 Role | 📅 Period |
+|----------------|---------|-----------|
+| **1M1B × IBM SkillsBuild** | AI for Sustainability Intern | 2024 |
+| **Excelerate** | Data Analyst Associate | 2024 |
+| **Main Flow Services** | SQL Developer Intern | 2024 |
+| **Edunet Foundation** | AI Intern | 2023-24 |
+| **Edunet Foundation** | Data Analyst Intern | 2023 |
+
+</div>
+
+---
+
+## 🌟 &nbsp; MY GITHUB IS MY PORTFOLIO
+
+<div align="center">
+
+### 🔥 **[ MY GITHUB IS MY PORTFOLIO ]** 🔥
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🚀%20Every%20commit%20tells%20a%20story.%20Every%20repo%20is%20a%20product.&fontSize=16&fontColor=ffffff" width="80%"/>
+
+> *"I don't just write code — I engineer intelligent systems that solve real problems."*
+
+**👉 [github.com/rnrahate](https://github.com/rnrahate) — Explore the work.**
+
+</div>
+
+---
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rnrahate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rnrahate&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" alt="Streak Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrahate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10" width="40%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🐍 &nbsp; Contribution Snake
+
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation"
-       src="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-contribution-grid-snake-dark.svg"
-       width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rnrahate/rnrahate/output/github-snake.svg">
 </picture>
+</div>
+
+---
+
+## 📈 &nbsp; Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rnrahate&bg_color=0d1117&color=00d4ff&line=7928ca&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 👁️ &nbsp; Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rnrahate&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/rnrahate?label=Followers&style=for-the-badge&color=7928ca&logo=github)
 
 </div>
 
 ---
 
-## 🏆 Achievements
-
-| 🏅 Achievement | 📌 Details |
-|----------------|------------|
-| 🥇 SIH Participant | Smart India Hackathon — national-level innovation challenge |
-| ✈️ SAE Aerothon | Aerospace engineering hackathon participant |
-| ♿ Accessibility AI | Binary Sign Language interpreter for inclusive communication |
-| 🌿 Environmental AI | EcoGuard AI — leveraging ML for eco-impact analysis |
-| 🐳 Docker Certified | Production ML apps containerised and deployed on Docker Hub |
-| 📈 Predictive Analytics | End-to-end churn prediction with TF ANN + Streamlit dashboard |
-
----
-
-## 🐳 Docker Hub
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer&text=Let's%20build%20something%20remarkable%20together!&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-rnrahate-2496ed?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/rnrahate)
-
-Production-ready containerised ML applications — available to pull and deploy instantly.
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/aryan-rahate](https://www.linkedin.com/in/aryan-rahate) |
-| 🐙 GitHub | [github.com/rnrahate](https://github.com/rnrahate) |
-| 🐳 Docker Hub | [hub.docker.com/u/rnrahate](https://hub.docker.com/u/rnrahate) |
-| 📸 Instagram | [instagram.com/rnrahate_007](https://www.instagram.com/rnrahate_007/) |
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,50:1a4731,100:0d1117&height=100&section=footer&animation=fadeIn" />
-
-<sub>
-  <strong>⭐ Star repos that interest you — it means a lot!</strong><br/>
-  <i>Always open to collaborating on ML, AI, and impactful tech projects.</i>
-</sub>
+*Made with ❤️ and lots of ☕ by Aryan Rahate — Nagpur, India 🇮🇳*
 
 </div>
