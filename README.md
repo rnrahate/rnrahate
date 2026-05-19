@@ -247,8 +247,21 @@ print(aryan.life_motto())
 
 <div align="center">
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rnrahate&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge)
+
+
+
+
+![Unique Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frnrahate&count_bg=%237928CA&title_bg=%23555555&icon=github.svg&icon_color=%23ffffff&title=Unique+%2F+Total+Hits&edge_flat=false)
+
+
+
+
 ![GitHub followers](https://img.shields.io/github/followers/rnrahate?label=Followers&style=for-the-badge&color=7928ca&logo=github)
+
+
 
 </div>
 
