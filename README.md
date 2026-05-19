@@ -254,7 +254,7 @@ print(aryan.life_motto())
 
 
 
-![Unique Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frnrahate&count_bg=%237928CA&title_bg=%23555555&icon=github.svg&icon_color=%23ffffff&title=Unique+%2F+Total+Hits&edge_flat=false)
+![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=rnrahate.rnrahate&left_color=%237928CA&right_color=%2300d4ff&left_text=Unique%20Visitors)
 
 
 
@@ -264,7 +264,6 @@ print(aryan.life_motto())
 
 
 </div>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=120&section=footer&text=Let's%20build%20something%20remarkable%20together!&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
